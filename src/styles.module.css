@@ -1,0 +1,43 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: black;
+    text-align: center;
+    height: 97vh;
+}
+
+header a{
+    color: gray;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0 15px;
+}
+
+.text {
+    color: white;
+}
+
+.header_conteiner {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+footer {
+    color: gray;
+    padding-bottom: 10px;
+   }
+
+footer span {
+ color: white;
+}
+
+.map_conteiner {
+    margin: 0 auto;
+}
+
+.map_conteiner div{
+    margin: 0 auto;
+}
